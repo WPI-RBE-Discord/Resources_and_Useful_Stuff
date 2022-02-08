@@ -115,8 +115,12 @@ Useful documents and links for the WPI RBE Community
     https://www.youtube.com/channel/UCCEWOigUM1lW1BkGWPDQsKQ/videos
   </li>
   <li>
-    @Kat Crighton (they/she)'s Cover Letter Template:
+    Kat Crighton's Cover Letter Template:
     https://rbe-discord.arjungandhi.com/Kat%27s+Cover+Letter+Template.png
+  </li>
+  <li>
+    Kat Crighton's Cold Call Advice:
+    [Document here](Kat_Cold_Call.md)
   </li>
   </ul>
 
