@@ -120,7 +120,7 @@ Useful documents and links for the WPI RBE Community
   </li>
   <li>
     Kat Crighton's Cold Call Advice:
-    [Document here](Kat_Cold_Call.md)
+    https://github.com/WPI-RBE-Discord/Resources_and_Useful_Stuff/blob/main/Kat_Cold_Call.md
   </li>
   </ul>
 
