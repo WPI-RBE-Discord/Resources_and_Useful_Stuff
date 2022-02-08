@@ -65,6 +65,22 @@ Useful documents and links for the WPI RBE Community
     List of RBE Faculty and their Research Areas:
     https://www.wpi.edu/academics/departments/robotics-engineering/research 
   </li>
+  <li>
+    Robotics Engineering Libguide (subject guide that pulls together all types of information about a particular subject or course of study):
+    https://libguides.wpi.edu/roboticsengineering 
+  </li>
+  <li>
+    Requests for new Library Materials:
+    https://libguides.wpi.edu/AskUs
+  </li>
+  <li>
+    WPI Bias Response Program:
+    https://www.wpi.edu/about/diversity-inclusion/bias-response-program
+  </li>
+  <li>
+    WPI Bias Incident Reporting Form:
+    https://wpi.qualtrics.com/jfe/form/SV_3Wf3vFpB8TntsKF
+  </li>
 </ul>
   
 ## General Robotics Resources
